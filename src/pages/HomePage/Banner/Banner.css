@@ -1,0 +1,15 @@
+.banner-img {
+  background: linear-gradient(rgb(2, 23, 60, 0.6), rgb(4, 24, 60, 0.6)),
+    url('https://i.ibb.co/xsXqhJD/DE5y-FUcq-Si2hrsm9hyz-Py-B.jpg'); /* Chrome 10-25, Safari 5.1-6 */
+
+  background-size: 100% 100%;
+  height: 570px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  font-weight: 700;
+}
+.banner-img h1 {
+  width: 70%;
+}
